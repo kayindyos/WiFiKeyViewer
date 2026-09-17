@@ -1,0 +1,12 @@
+# build artifacts
+*.exe
+*.o
+*.obj
+
+# runtime output
+logs.log
+wifi_report.txt
+
+# OS junk
+.DS_Store
+__MACOSX/
