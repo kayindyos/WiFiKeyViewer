@@ -75,7 +75,7 @@ WiFiKeyViewer/
 
 ## Credits & License
 
-This is an adaptation by **YOUR_NAME**.
+This is an adaptation by Yeldana Yeshmuratova.
 
 Based on an original MIT-licensed project by **MR.ShadowMan** (2025). The original
 theming and Win32 scaffolding are reused under the MIT License; the credential
